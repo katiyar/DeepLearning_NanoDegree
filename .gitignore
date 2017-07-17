@@ -1,8 +1,7 @@
 .DS_Store
+*/Icon
+.ipynb_checkpoints
+__pycache__
+data/
 
-P1_First_Neural_Network/Bike-Sharing-Dataset/Icon
-
-P1_First_Neural_Network/Icon
-
-P2_Image_Classification_CNN/Icon
 
