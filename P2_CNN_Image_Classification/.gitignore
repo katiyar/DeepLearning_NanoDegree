@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+Icon
+*/Icon
+.ipynb_checkpoints
+__pycache__
+
+
